@@ -38,9 +38,9 @@ function Home() {
         </div>
         <div className="ModCard_Tray">
           <ModCard
-            name="T-38C Talon"
+            name="DCS: The Way"
             image="src\assets\sun_t-38.png"
-            link="https://www.caffeinesimulations.com"
+            link="https://github.com/aronCiucu/DCSTheWay/releases"
           />
           <ModCard
             name="O-1E Birddog"
