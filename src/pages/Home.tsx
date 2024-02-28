@@ -7,6 +7,8 @@ import FindUsCard from "../components/FindUsCard";
 import AboutUs from "../components/AboutUs";
 // import DiscordWidget from "../components/DiscordWidget";
 
+// AHHHHHHHHHHH
+
 function Home() {
   return (
     <div className="Home">
