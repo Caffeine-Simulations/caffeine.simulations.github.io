@@ -1,6 +1,6 @@
 import React from 'react';
 
-import "./ModCard.css"
+import "./styles/ModCard.css"
 
 interface Props {
     name: string;
