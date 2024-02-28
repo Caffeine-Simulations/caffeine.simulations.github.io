@@ -27,7 +27,7 @@ function Home() {
           />
           <ModCard
             name="Caffeine Asset Pack"
-            image="src\assets\sun_t-38.png"
+            image="src\assets\tuktuk.png"
             link="https://www.caffeinesimulations.com"
           />
         </div>
