@@ -10,6 +10,7 @@
 .Home_Container {
   background-color: red;
 }
+
 /* Main column */
 .Home_Container .main {
   flex: 80%;

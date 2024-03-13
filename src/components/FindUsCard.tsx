@@ -3,7 +3,7 @@ import "./styles/FindUsCard.css"
 const FindUsCard = () => {
     return (
         <div className="FindUsCard">
-            <h1>Find us online:</h1>
+            <h1>Socials:</h1>
             <div className="FindUsCard_Container">
                 <div className="FindUsCard_Tray">
                     <a href="https://discord.gg/JxcShF8QYy" target="_blank">
